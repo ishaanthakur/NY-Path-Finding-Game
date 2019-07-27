@@ -11,8 +11,6 @@ import game.Node;
 import game.NodeStatus;
 import game.SewerDiver;
 
-// NetID-it233, acs299
-//Implemented solution given for A6 in paths.java
 
 public class DiverMin extends SewerDiver {
 
