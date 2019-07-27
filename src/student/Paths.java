@@ -1,11 +1,3 @@
-
-/** NetId(s): it233, acs299
- * Name(s):
- *
- * What I thought about this assignment:
- *
- *
- */
 package student;
 
 import java.util.HashMap;
