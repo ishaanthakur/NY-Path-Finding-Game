@@ -1,8 +1,4 @@
 package student;
-/** NetId(s): djg17
- *
- * Name(s): Gries
- */
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
